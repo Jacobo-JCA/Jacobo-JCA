@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hola, soy Jacob
+System.out.print("Hello world")
+¡Bienvenido a mi perfil de GitHub! Soy un apasionado desarrollador backend con experiencia en tecnologías como Java, Spring, y Spring Boot. Me especializo en el manejo de bases de datos relacionales, particularmente con PostgreSQL y MySQL.
 
-<!--
-**Jacobo-JCA/Jacobo-JCA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí
+- 🔭 Actualmente estoy en proceso de culminar mis estudios.
+- 🌱 Siempre estoy aprendiendo y mejorando mis habilidades en desarrollo de software.
+- 💬 Puedes preguntarme sobre Java, Spring, Spring Boot, PostgreSQL, MySQL, o cualquier cosa relacionada con el desarrollo backend.
 
-Here are some ideas to get you started:
+## Conéctate conmigo
+- (https://twitter.com/jcobjoss777)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+¡Gracias por visitar mi perfil! No dudes en contactarme si tienes alguna pregunta o sugerencia.
+
