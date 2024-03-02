@@ -1,12 +1,20 @@
 # Hola, soy Jacob Capa
 System.out.print("Hello world!! 🫡")
 
-¡Bienvenid@ a mi perfil de GitHub! Soy un apasionado Engineer backend con experiencia en tecnologías como Java, Spring, y Spring Boot. Me especializo en el manejo de bases de datos relacionales, particularmente con PostgreSQL y MySQL.
+¡Bienvenid@ a mi perfil de GitHub recruiters!
+Soy un Engineer Backend, especializado principalmente en la creación de sistemas robustos y eficientes que impulsan el funcionamiento fluido de diversas aplicaciones, 
+construyendo asi soluciones backend sólidas y escalables.
+
+En lo que respecta a la seguridad, implemento buenas prácticas de autenticación y autorización sólidas, me aseguro que nuestras aplicaciones estén protegidas contra amenazas externas y 
+garantizo la integridad de la información sensible.
+
+También tengo experiencia en la creación de APIs RESTful que permiten la comunicación fluida entre diferentes sistemas y dispositivos. 
+Estas APIs son diseñadas con un enfoque en la simplicidad, la eficiencia y la escalabilidad, asegurando una integración sin problemas con otros componentes de la infraestructura tecnológica.
 
 ## Sobre mí
 - 📚 Actualmente estoy en proceso de culminar mis estudios.
 - 🧠 Siempre estoy aprendiendo y mejorando mis habilidades en desarrollo de software.
-- 🥷 Puedes preguntarme sobre Java, Spring, Spring Boot, Spring JPA, APIs, PostgreSQL, MySQL, o cualquier cosa relacionada con el desarrollo backend.
+- 🥷 Puedes preguntarme sobre Java, Spring, Spring Boot, Spring JPA, Spring Security, APIs, PostgreSQL, MySQL, o cualquier cosa relacionada con el desarrollo backend.
 
 ### Skills 
 <p align="left">
