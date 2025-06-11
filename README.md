@@ -1,7 +1,7 @@
 # Hola, soy Jacob Capa
 System.out.print("Hello world!! 🫡")
 
-¡Bienvenid@ a mi perfil de GitHub recruiters!
+¡Bienvenid@ a mi perfil de GitHub!
 
 Soy un Engineer Backend, especializado principalmente en la creación de sistemas robustos y eficientes que impulsan el funcionamiento fluido de diversas aplicaciones, 
 construyendo asi soluciones backend sólidas y escalables.
